@@ -1,4 +1,4 @@
-# Final-Project-Data-Cleaning
+# Final Project Getting and Data Cleaning Data course
 
 Diana Torres Boza
 
